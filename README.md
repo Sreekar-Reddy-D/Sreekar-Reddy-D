@@ -3,9 +3,10 @@
 I am a software developer with a strong focus on backend architecture, competitive programming, and containerized deployments. I enjoy building efficient systems and exploring the mechanics behind scalable data and GenAI.
 
 ### 🚀 What I'm Up To
-- 🔭 Currently building and orchestrating microservices with **Docker**.
-- 🧠 Deep diving into **System Design** and core **Generative AI** architectures.
-- ⚡ Sharpening my competitive programming skills using **C++**, and **Go**.
+- ⚙️ **Primary Focus:** Deeply passionate about **Backend Engineering** and currently diving into core **System Design** principles.
+- 🧱 **Building:** Crafting efficient, scalable backend services using **Go** and orchestrating microservices with **Docker**.
+- 🌱 **Learning:** Expanding my full-stack capabilities by learning **React** to build interactive user interfaces.
+- ⚡ **Problem Solving:** Continuously sharpening my competitive programming and algorithmic skills using **C++**.
 
 ---
 
