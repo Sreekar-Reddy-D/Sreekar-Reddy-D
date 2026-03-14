@@ -43,7 +43,3 @@ I am a software developer with a strong focus on backend architecture, competiti
   <img src="https://github-readme-stats.vercel.app/api?username=Sreekar-Reddy-D&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreekar-Reddy-D&theme=tokyonight" width="48%" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekar-Reddy-D&layout=compact&theme=tokyonight" width="48%" />
-</div>
