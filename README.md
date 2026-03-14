@@ -27,6 +27,7 @@ I am a software developer with a strong focus on backend architecture, competiti
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+**Web Development:** HTML, CSS, JavaScript, React
 ---
 
 ### 📂 Highlighted Projects
